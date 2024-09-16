@@ -80,3 +80,5 @@ Position: Sticky https://codepen.io/mpadalko/pen/LYNqpGG
 Генератор трикутників https://www.cssportal.com/css-triangle-generator/
 Приклади з трансформ https://codepen.io/nazarelen/pen/EaNbLX?editors=1100
 Генератор cubic-bezier https://cubic-bezier.com/#.22,.84,.88,.03
+Посилання на репозиторій:
+https://github.com/Olexiy-repin/html-css-112/tree/module-04-lesson-01
