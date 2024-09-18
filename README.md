@@ -82,3 +82,9 @@ Position: Sticky https://codepen.io/mpadalko/pen/LYNqpGG
 Генератор cubic-bezier https://cubic-bezier.com/#.22,.84,.88,.03
 Посилання на репозиторій:
 https://github.com/Olexiy-repin/html-css-112/tree/module-04-lesson-01
+
+Додаткові матеріали:
+Бібліотека Animate.css https://animate.style/
+Бібліотека AOS (Анімациї на скрол): https://michalsnik.github.io/aos/
+Приклад анімації shake іконок: https://codepen.io/mpadalko/pen/GRWEWMZ?editors=1100
+Приклад анімації heartbeat: https://codepen.io/mpadalko/pen/JjbErPB?editors=1100
