@@ -93,3 +93,15 @@ https://github.com/Olexiy-repin/html-css-112/tree/module-04-lesson-01
 https://www.loom.com/share/1f948ffc8ea849529be1f2a3bca88142
 Посилання на сніппет - https://gist.github.com/SergeyKorobka/0b8df417938de97e2a0bf34dc18b237d (інструкція по підключенню в відео)
 Посилання на розширення XML Format - https://marketplace.visualstudio.com/items?itemName=mikeburgh.xml-format
+
+код сніппету
+"svg": {
+    "scope": "html",
+    "prefix": "svg",
+    "body": [
+    "<svg class=\"$2\" width=\"$3\" height=\"$4\">",
+    "  <use href=\"$1\"></use>",
+    "</svg>"
+    ],
+    "description": "media min"
+  }
