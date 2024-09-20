@@ -88,3 +88,8 @@ https://github.com/Olexiy-repin/html-css-112/tree/module-04-lesson-01
 Бібліотека AOS (Анімациї на скрол): https://michalsnik.github.io/aos/
 Приклад анімації shake іконок: https://codepen.io/mpadalko/pen/GRWEWMZ?editors=1100
 Приклад анімації heartbeat: https://codepen.io/mpadalko/pen/JjbErPB?editors=1100
+
+як експортувати іконки, додавати їх до спрайту та підключати. Також як додавати іконки в існуючий спрайт. І в бонус сніппет який буде розгортати структуру svg>use
+https://www.loom.com/share/1f948ffc8ea849529be1f2a3bca88142
+Посилання на сніппет - https://gist.github.com/SergeyKorobka/0b8df417938de97e2a0bf34dc18b237d (інструкція по підключенню в відео)
+Посилання на розширення XML Format - https://marketplace.visualstudio.com/items?itemName=mikeburgh.xml-format
