@@ -105,3 +105,9 @@ https://www.loom.com/share/1f948ffc8ea849529be1f2a3bca88142
     ],
     "description": "media min"
   }
+
+# Модуль 5
+
+Тримайте відео з реалізацією модального вікна - https://www.loom.com/share/61ec4e9119e34240949a90c4dd8bea21
+Посилання на репозиторій - https://github.com/SergeyKorobka/goit-markup-example-05
+Посилання на скрипт для відкриття модального вікна - https://gist.github.com/SergeyKorobka/031b7e6d986052b13acbce17d52852c9
