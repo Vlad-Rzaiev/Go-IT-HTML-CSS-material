@@ -111,3 +111,9 @@ https://www.loom.com/share/1f948ffc8ea849529be1f2a3bca88142
 Тримайте відео з реалізацією модального вікна - https://www.loom.com/share/61ec4e9119e34240949a90c4dd8bea21
 Посилання на репозиторій - https://github.com/SergeyKorobka/goit-markup-example-05
 Посилання на скрипт для відкриття модального вікна - https://gist.github.com/SergeyKorobka/031b7e6d986052b13acbce17d52852c9
+
+# Модуль 6
+
+Responsive images - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+Лайфхак, як прописати шлях в srcset - https://www.loom.com/share/8c48d3f9818a4ad081c2c6ac3ddfd2ff
+Зразок ретінізації фонового зображення - https://prnt.sc/Hf7VaTZAsEQa
