@@ -121,3 +121,13 @@ Responsive images - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimed
 Почнемо адаптацію нашого проекта під різні розміри екрану:muscle::skin-tone-2:
 Відео розбір, в якому працюємо з header та mobile menu - https://www.loom.com/share/bcac119269fe463680e3aad72163d33d
 Посилання на репозиторій - https://github.com/SergeyKorobka/goit-markup-example-06
+
+# TEAM PROJECT
+
+Шаблон бандлера Vite - https://github.com/goitacademy/vanilla-app-template
+Команди для роботи в терміналі - https://gist.github.com/SergeyKorobka/2f534c8eeefa6c5494a735564b09612e
+Відео по роботі з гітом в команді - https://youtu.be/wFY5HVuQBgw?si=ffDLPUZz7vMmMFhN
+Приклад валідації інпута - https://codepen.io/SergeyKorobka/pen/WNWeKVp
+Приклад фліп картки - https://www.w3schools.com/howto/howto_css_flip_card.asp
+Скрипт для мобільної менюшки, яка закривається при натисканні на якірні посилання - https://codepen.io/SergeyKorobka/pen/zYmojKV
+Бібліотека анімації при скролі - https://michalsnik.github.io/aos/
